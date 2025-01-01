@@ -41,7 +41,7 @@ This repository hosts the source code for hiremepls.com, a web application built
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/hiremepls.com.git
+    git clone https://github.com/jok4/hiremepls.com.git
     cd hiremepls.com
     ```
 
