@@ -51,7 +51,7 @@ This repository hosts the source code for hiremepls.com, a web application built
     ```
 
 3. **Set Up Environment Variables**:  
-   Create a `.env.local` file in the root directory with the following keys:
+   This project uses Firebase. If you wish to test the functionality locally you may need to set up your own [Firebase Project](https://firebase.google.com/). Afterwards Create a `.env.local` file in the root directory with the following keys from your project:
    ```env
    NEXT_PUBLIC_FIREBASE_API_KEY=<your-firebase-api-key>
    NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=<your-firebase-auth-domain>
